@@ -17,6 +17,6 @@ J1,1,USB_B_Micro,USB_B_Micro,Connector_USB:USB_Micro-B_Wuerth_629105150521,USB M
 "R1, R3, R4, R5",4,1k5,R_2,Resistor_SMD:R_0402_1005Metric,Resistor,Mouser,603-RT0402DRE07845RL
 R2,1,10k,R,Resistor_SMD:R_0402_1005Metric,Resistor,Digi-Key,P17194CT-ND
 SW1,1,SW_SPDT,SW_SPDT,Button_Switch_SMD:SW_SPDT_PCM12,"Switch, single pole double throw",Mouser,611-PCM12SMTBR
-U1,1,AMS1117-3.3,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",Digi-Key,4518-AMS1117-3.3CT-ND
-U2,1,STM32F103C8T6,STM32F103C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm,"STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48",Mouser,511-STM32F103C8T6
+U1,1,AMS1117-3.3,AMS1117-3.3,"Rua Dr. Joaquim Eleutério Gaspar Gomes, 24A, 1°","1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",Digi-Key,4518-AMS1117-3.3CT-ND
+U2,1,STM32F103C8T6,STM32F103C8Tx,"Queluz, Portugal 2745-133","STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48",Mouser,511-STM32F103C8T6
 Y1,1,16Mhz,Crystal_GND24,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,"Four pin crystal, GND on pins 2 and 4",Mouser,581-CX3225GB16PHPQCC
